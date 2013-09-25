@@ -1,0 +1,37 @@
+----------Version 2----------
+
+I want it to run with cron. When it runs it looks at the time.
+If it isn't midnight the program writes one line to the log then quits.
+
+If it is midnight it downloads the list. If it turns out that list is empty,
+the program writes one line to the log to say so before quitting.
+
+If the list is populated, email ifttt, update, upgrade, download (one log line
+per video) then quit.
+
+When the app closes, only keep the last 1000ish lines of the log.
+
+----------Version 3----------
+
+The list file shouldn't need the single character prefix, it should just contain URLs and the program should be clever enough to figure out what is the right thing to do.
+- If the first word contains 'youtu', take it as a YouTube video.
+- If it contains 'vimeo', download it as Vimeo.
+- If it is made of several words, it is a command.
+- It is a URL where after splitting by '/', the last section contains a '.', you should use wget.
+- # means the line is a comment. Ignore it.
+
+Fiddle with the orders of the rules. Several words should go first.
+
+----------Version 4----------
+
+Replaces Boxcar with Textme
+
+Logs errors permanently to errorlog.txt
+
+Uses the standard email.sh command rather than notify and addline
+
+########## I AM HERE ##########
+
+It should verify that the video is there, and log the video name.
+
+Handles http errors by tring a maximum of 3 times.

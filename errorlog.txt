@@ -1,0 +1,2 @@
+This is where errors get stored permanently for future reference and improvement.
+

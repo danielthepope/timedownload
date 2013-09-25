@@ -1,0 +1,20 @@
+( sleep 5
+echo "helo"
+sleep 2
+echo "AUTH PLAIN AGRqcG9wZTIzNjVAZ21haWwuY29tAC9jbG9yZHBsZXJnMzkwOQ=="
+sleep 2
+echo "mail from: <djpope2365@gmail.com>"
+sleep 2
+echo "rcpt to: <trigger@ifttt.com>"
+sleep 2
+echo "data"
+sleep 2
+echo "from: djpope2365@gmail.com"
+echo "to: trigger@ifttt.com"
+echo "subject: #deldl"
+echo
+echo "add a line please"
+echo
+echo "."
+sleep 5
+echo "quit" ) | openssl s_client -starttls smtp -crlf -connect smtp.gmail.com:25

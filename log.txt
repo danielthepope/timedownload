@@ -1,0 +1,1500 @@
+2013-07-19 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 22:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-19 23:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 00:17:01 Good evening! Let's do some stuff
+2013-07-20 00:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/HJvgrCodUw4
+youtube-dl -f 18 -t --no-progress http://youtu.be/pdizTdTBvxo
+2013-07-20 00:17:23 Emailed ifttt - added line to list file
+2013-07-20 00:17:23 Updating computer...
+2013-07-20 00:20:57 Done.
+2013-07-20 00:21:05 Updated directory: /mnt/usbdrive/youtube
+2013-07-20 00:21:05 youtube-dl -f 18 -t --no-progress http://youtu.be/HJvgrCodUw4
+[youtube] Setting language
+[youtube] HJvgrCodUw4: Downloading video webpage
+[youtube] HJvgrCodUw4: Downloading video info webpage
+[youtube] HJvgrCodUw4: Extracting video information
+[download] Destination: I am not a train spotter! - Extras - James May's Q&A (Ep 30) - Head Squeeze-HJvgrCodUw4.mp4
+[download] Download completed
+2013-07-20 00:28:33 youtube-dl -f 18 -t --no-progress http://youtu.be/pdizTdTBvxo
+[youtube] Setting language
+[youtube] pdizTdTBvxo: Downloading video webpage
+[youtube] pdizTdTBvxo: Downloading video info webpage
+[youtube] Confirming age
+[youtube] pdizTdTBvxo: Extracting video information
+[download] Destination: Best Fails of the Week 3 July 2013-pdizTdTBvxo.mp4
+[download] Download completed
+2013-07-20 00:33:57 List finished. Enjoy!
+2013-07-20 01:17:02 Good evening! Let's do some stuff
+2013-07-20 01:17:08 Nothing to do.
+2013-07-20 01:17:08 Bye.
+2013-07-20 02:17:01 Good evening! Let's do some stuff
+2013-07-20 02:17:03 Nothing to do.
+2013-07-20 02:17:03 Bye.
+2013-07-20 03:17:02 Good evening! Let's do some stuff
+2013-07-20 03:17:04 Nothing to do.
+2013-07-20 03:17:04 Bye.
+2013-07-20 04:17:02 Good evening! Let's do some stuff
+2013-07-20 04:17:04 Nothing to do.
+2013-07-20 04:17:04 Bye.
+2013-07-20 05:17:02 Good evening! Let's do some stuff
+2013-07-20 05:17:04 Nothing to do.
+2013-07-20 05:17:04 Bye.
+2013-07-20 06:17:02 Good evening! Let's do some stuff
+2013-07-20 06:17:10 Nothing to do.
+2013-07-20 06:17:10 Bye.
+2013-07-20 07:17:02 Good evening! Let's do some stuff
+2013-07-20 07:17:03 Nothing to do.
+2013-07-20 07:17:03 Bye.
+2013-07-20 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 09:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 10:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 21:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 22:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-20 23:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 00:17:01 Good evening! Let's do some stuff
+2013-07-21 00:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/KbUsKWbOqUU
+youtube-dl -f 18 -t --no-progress http://youtu.be/uHmBUW3E14k
+youtube-dl -f 18 -t --no-progress http://youtu.be/Ve7J0DIQH8A
+youtube-dl -f 18 -t --no-progress http://youtu.be/G5s4-Kak49o
+2013-07-21 00:17:23 Emailed ifttt - added line to list file
+2013-07-21 00:17:23 Updating computer...
+2013-07-21 00:18:18 Done.
+2013-07-21 00:18:27 Updated directory: /mnt/usbdrive/youtube
+2013-07-21 00:18:27 youtube-dl -f 18 -t --no-progress http://youtu.be/KbUsKWbOqUU
+[youtube] Setting language
+[youtube] KbUsKWbOqUU: Downloading video webpage
+[youtube] KbUsKWbOqUU: Downloading video info webpage
+[youtube] KbUsKWbOqUU: Extracting video information
+[download] Destination: Why can't trains go uphill - James May's Q&A (Ep 30) - Head Squeeze-KbUsKWbOqUU.mp4
+[download] Download completed
+2013-07-21 00:23:31 youtube-dl -f 18 -t --no-progress http://youtu.be/uHmBUW3E14k
+[youtube] Setting language
+[youtube] uHmBUW3E14k: Downloading video webpage
+[youtube] uHmBUW3E14k: Downloading video info webpage
+ERROR: YouTube said: This video has been removed by the user.
+2013-07-21 00:23:39 youtube-dl -f 18 -t --no-progress http://youtu.be/Ve7J0DIQH8A
+[youtube] Setting language
+[youtube] Ve7J0DIQH8A: Downloading video webpage
+[youtube] Ve7J0DIQH8A: Downloading video info webpage
+[youtube] Ve7J0DIQH8A: Extracting video information
+[download] Destination: Generate electricity using body heat - Live Experiments (Ep 46) - Head Squeeze-Ve7J0DIQH8A.mp4
+[download] Download completed
+2013-07-21 00:25:42 youtube-dl -f 18 -t --no-progress http://youtu.be/G5s4-Kak49o
+[youtube] Setting language
+[youtube] G5s4-Kak49o: Downloading video webpage
+[youtube] G5s4-Kak49o: Downloading video info webpage
+[youtube] G5s4-Kak49o: Extracting video information
+[download] Destination: Where Do Deleted Files Go-G5s4-Kak49o.mp4
+[download] Download completed
+2013-07-21 00:32:36 List finished. Enjoy!
+2013-07-21 01:17:02 Good evening! Let's do some stuff
+2013-07-21 01:17:08 Nothing to do.
+2013-07-21 01:17:08 Bye.
+2013-07-21 02:17:02 Good evening! Let's do some stuff
+2013-07-21 02:17:07 Nothing to do.
+2013-07-21 02:17:07 Bye.
+2013-07-21 03:17:01 Good evening! Let's do some stuff
+2013-07-21 03:17:04 Nothing to do.
+2013-07-21 03:17:04 Bye.
+2013-07-21 04:17:02 Good evening! Let's do some stuff
+2013-07-21 04:17:03 Nothing to do.
+2013-07-21 04:17:03 Bye.
+2013-07-21 05:17:01 Good evening! Let's do some stuff
+2013-07-21 05:17:03 Nothing to do.
+2013-07-21 05:17:03 Bye.
+2013-07-21 06:17:02 Good evening! Let's do some stuff
+2013-07-21 06:17:04 Nothing to do.
+2013-07-21 06:17:04 Bye.
+2013-07-21 07:17:02 Good evening! Let's do some stuff
+2013-07-21 07:17:04 Nothing to do.
+2013-07-21 07:17:04 Bye.
+2013-07-21 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 09:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 10:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 11:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 21:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 22:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-21 23:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 00:17:02 Good evening! Let's do some stuff
+2013-07-22 00:17:04 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/yIrvyrWhwv4
+youtube-dl -f 18 -t --no-progress http://youtu.be/jX2h67S1ODg
+youtube-dl -f 18 -t --no-progress http://youtu.be/G5s4-Kak49o
+youtube-dl -f 18 -t --no-progress http://youtu.be/tY45EI5RGFM
+youtube-dl -f 18 -t --no-progress http://youtu.be/k74ZbpkOG5M
+2013-07-22 00:17:24 Emailed ifttt - added line to list file
+2013-07-22 00:17:24 Updating computer...
+2013-07-22 00:18:18 Done.
+2013-07-22 00:18:18 Updated directory: /mnt/usbdrive/youtube
+2013-07-22 00:18:18 youtube-dl -f 18 -t --no-progress http://youtu.be/yIrvyrWhwv4
+[youtube] Setting language
+[youtube] yIrvyrWhwv4: Downloading video webpage
+[youtube] yIrvyrWhwv4: Downloading video info webpage
+[youtube] yIrvyrWhwv4: Extracting video information
+[download] Destination: Noah Announces 1st Single, 'Call Home,' on iTunes July 30.-yIrvyrWhwv4.mp4
+[download] Download completed
+2013-07-22 00:18:41 youtube-dl -f 18 -t --no-progress http://youtu.be/jX2h67S1ODg
+[youtube] Setting language
+[youtube] jX2h67S1ODg: Downloading video webpage
+[youtube] jX2h67S1ODg: Downloading video info webpage
+[youtube] jX2h67S1ODg: Extracting video information
+[download] Destination: What's the difference between clay and grass court tennis - Sci Guide (Ep 29) - Head Squeeze-jX2h67S1ODg.mp4
+[download] Download completed
+2013-07-22 00:21:11 youtube-dl -f 18 -t --no-progress http://youtu.be/G5s4-Kak49o
+[youtube] Setting language
+[youtube] G5s4-Kak49o: Downloading video webpage
+[youtube] G5s4-Kak49o: Downloading video info webpage
+[youtube] G5s4-Kak49o: Extracting video information
+[download] Destination: Where Do Deleted Files Go-G5s4-Kak49o.mp4
+[download] Download completed
+2013-07-22 00:28:05 youtube-dl -f 18 -t --no-progress http://youtu.be/tY45EI5RGFM
+[youtube] Setting language
+[youtube] tY45EI5RGFM: Downloading video webpage
+[youtube] tY45EI5RGFM: Downloading video info webpage
+[youtube] tY45EI5RGFM: Extracting video information
+[download] Destination: James May is scared of heights! - Extras - James May's Q&A (Ep 29) - Head Squeeze-tY45EI5RGFM.mp4
+[download] Download completed
+2013-07-22 00:32:11 youtube-dl -f 18 -t --no-progress http://youtu.be/k74ZbpkOG5M
+[youtube] Setting language
+[youtube] k74ZbpkOG5M: Downloading video webpage
+[youtube] k74ZbpkOG5M: Downloading video info webpage
+[youtube] k74ZbpkOG5M: Extracting video information
+[download] Destination: Old Spice _ Architect-k74ZbpkOG5M.mp4
+[download] Download completed
+2013-07-22 00:32:38 List finished. Enjoy!
+2013-07-22 01:17:01 Good evening! Let's do some stuff
+2013-07-22 01:17:03 Nothing to do.
+2013-07-22 01:17:03 Bye.
+2013-07-22 02:17:02 Good evening! Let's do some stuff
+2013-07-22 02:17:04 Nothing to do.
+2013-07-22 02:17:04 Bye.
+2013-07-22 03:17:02 Good evening! Let's do some stuff
+2013-07-22 03:17:04 Nothing to do.
+2013-07-22 03:17:04 Bye.
+2013-07-22 04:17:01 Good evening! Let's do some stuff
+2013-07-22 04:17:03 Nothing to do.
+2013-07-22 04:17:03 Bye.
+2013-07-22 05:17:02 Good evening! Let's do some stuff
+2013-07-22 05:17:04 Nothing to do.
+2013-07-22 05:17:04 Bye.
+2013-07-22 06:17:02 Good evening! Let's do some stuff
+2013-07-22 06:17:03 Nothing to do.
+2013-07-22 06:17:03 Bye.
+2013-07-22 07:17:02 Good evening! Let's do some stuff
+2013-07-22 07:17:03 Nothing to do.
+2013-07-22 07:17:03 Bye.
+2013-07-22 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 14:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 15:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-22 23:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 00:17:01 Good evening! Let's do some stuff
+2013-07-23 00:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/ytHsDlmAo0g
+youtube-dl -f 18 -t --no-progress http://youtu.be/1GEova0BTeM
+2013-07-23 00:17:23 Emailed ifttt - added line to list file
+2013-07-23 00:17:23 Updating computer...
+2013-07-23 00:18:15 Done.
+2013-07-23 00:18:15 Updated directory: /mnt/usbdrive/youtube
+2013-07-23 00:18:15 youtube-dl -f 18 -t --no-progress http://youtu.be/ytHsDlmAo0g
+[youtube] Setting language
+[youtube] ytHsDlmAo0g: Downloading video webpage
+[youtube] ytHsDlmAo0g: Downloading video info webpage
+[youtube] ytHsDlmAo0g: Extracting video information
+[download] Destination: Why we have fingernails & other awesome answers - Greg Foot Q&A (Ep 10) - Head Squeeze-ytHsDlmAo0g.mp4
+[download] Download completed
+2013-07-23 00:24:17 youtube-dl -f 18 -t --no-progress http://youtu.be/1GEova0BTeM
+[youtube] Setting language
+[youtube] 1GEova0BTeM: Downloading video webpage
+[youtube] 1GEova0BTeM: Downloading video info webpage
+[youtube] 1GEova0BTeM: Extracting video information
+[download] Destination: UK PORN BAN, COMIC CON SUICIDE & HOW TO SAVE YOUR DOG-1GEova0BTeM.mp4
+[download] Download completed
+2013-07-23 00:29:59 List finished. Enjoy!
+2013-07-23 01:17:02 Good evening! Let's do some stuff
+2013-07-23 01:17:04 Nothing to do.
+2013-07-23 01:17:04 Bye.
+2013-07-23 02:17:02 Good evening! Let's do some stuff
+2013-07-23 02:17:03 Nothing to do.
+2013-07-23 02:17:03 Bye.
+2013-07-23 03:17:01 Good evening! Let's do some stuff
+2013-07-23 03:17:03 Nothing to do.
+2013-07-23 03:17:03 Bye.
+2013-07-23 04:17:02 Good evening! Let's do some stuff
+2013-07-23 04:17:04 Nothing to do.
+2013-07-23 04:17:04 Bye.
+2013-07-23 05:17:02 Good evening! Let's do some stuff
+2013-07-23 05:17:03 Nothing to do.
+2013-07-23 05:17:03 Bye.
+2013-07-23 06:17:02 Good evening! Let's do some stuff
+2013-07-23 06:17:04 Nothing to do.
+2013-07-23 06:17:04 Bye.
+2013-07-23 07:17:02 Good evening! Let's do some stuff
+2013-07-23 07:17:03 Nothing to do.
+2013-07-23 07:17:03 Bye.
+2013-07-23 08:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-23 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 00:17:02 Good evening! Let's do some stuff
+2013-07-24 00:17:03 Commands to execute:
+cclive -f best http://vimeo.com/45777372
+cclive -f best http://vimeo.com/70845686
+youtube-dl -f 18 -t --no-progress http://youtu.be/rjxAkfhVatk
+youtube-dl -f 18 -t --no-progress http://youtu.be/nAcK1AY6LWU
+youtube-dl -f 18 -t --no-progress http://youtu.be/yTPg6xpZkG0
+youtube-dl -f 18 -t --no-progress http://youtu.be/Agdvt9M3NJA
+youtube-dl -f 18 -t --no-progress http://youtu.be/6NwDV_o7xR4
+2013-07-24 00:17:24 Emailed ifttt - added line to list file
+2013-07-24 00:17:24 Updating computer...
+2013-07-24 00:18:20 Done.
+2013-07-24 00:18:20 Updated directory: /mnt/usbdrive/youtube
+2013-07-24 00:18:20 cclive -f best http://vimeo.com/45777372
+sh: 1: cclive: not found
+2013-07-24 00:18:20 cclive -f best http://vimeo.com/70845686
+sh: 1: cclive: not found
+2013-07-24 00:18:20 youtube-dl -f 18 -t --no-progress http://youtu.be/rjxAkfhVatk
+[youtube] Setting language
+[youtube] rjxAkfhVatk: Downloading video webpage
+[youtube] rjxAkfhVatk: Downloading video info webpage
+[youtube] rjxAkfhVatk: Extracting video information
+[download] Destination: B STORY - Back Then (Acoustic)-rjxAkfhVatk.mp4
+[download] Download completed
+2013-07-24 00:19:46 youtube-dl -f 18 -t --no-progress http://youtu.be/nAcK1AY6LWU
+[youtube] Setting language
+[youtube] nAcK1AY6LWU: Downloading video webpage
+[youtube] nAcK1AY6LWU: Downloading video info webpage
+[youtube] nAcK1AY6LWU: Extracting video information
+[download] Destination: EarWizard by Wizdom Music-nAcK1AY6LWU.mp4
+[download] Download completed
+2013-07-24 00:20:40 youtube-dl -f 18 -t --no-progress http://youtu.be/yTPg6xpZkG0
+[youtube] Setting language
+[youtube] yTPg6xpZkG0: Downloading video webpage
+[youtube] yTPg6xpZkG0: Downloading video info webpage
+[youtube] yTPg6xpZkG0: Extracting video information
+[download] Destination: In Studio Ep2 DREAM THEATER NEW ALBUM 'DREAM THEATER' ARRIVES ON SEPTEMBER 24TH-yTPg6xpZkG0.mp4
+[download] Download completed
+2013-07-24 00:22:48 youtube-dl -f 18 -t --no-progress http://youtu.be/Agdvt9M3NJA
+[youtube] Setting language
+[youtube] Agdvt9M3NJA: Downloading video webpage
+[youtube] Agdvt9M3NJA: Downloading video info webpage
+[youtube] Agdvt9M3NJA: Extracting video information
+[download] Destination: Could We Stop An Asteroid Feat. Bill Nye-Agdvt9M3NJA.mp4
+[download] Download completed
+2013-07-24 00:26:28 youtube-dl -f 18 -t --no-progress http://youtu.be/6NwDV_o7xR4
+[youtube] Setting language
+[youtube] 6NwDV_o7xR4: Downloading video webpage
+[youtube] 6NwDV_o7xR4: Downloading video info webpage
+[youtube] 6NwDV_o7xR4: Extracting video information
+[download] Destination: RUSSIA IS GAY, FABULOUS & KIND OF REALLY HOMOPHOBIC-6NwDV_o7xR4.mp4
+[download] Download completed
+2013-07-24 00:32:15 List finished. Enjoy!
+2013-07-24 01:17:02 Good evening! Let's do some stuff
+2013-07-24 01:17:07 Nothing to do.
+2013-07-24 01:17:07 Bye.
+2013-07-24 02:17:02 Good evening! Let's do some stuff
+2013-07-24 02:17:08 Nothing to do.
+2013-07-24 02:17:08 Bye.
+2013-07-24 03:17:02 Good evening! Let's do some stuff
+2013-07-24 03:17:05 Nothing to do.
+2013-07-24 03:17:05 Bye.
+2013-07-24 04:17:02 Good evening! Let's do some stuff
+2013-07-24 04:17:03 Nothing to do.
+2013-07-24 04:17:03 Bye.
+2013-07-24 05:17:02 Good evening! Let's do some stuff
+2013-07-24 05:17:04 Nothing to do.
+2013-07-24 05:17:04 Bye.
+2013-07-24 06:17:02 Good evening! Let's do some stuff
+2013-07-24 06:17:03 Nothing to do.
+2013-07-24 06:17:04 Bye.
+2013-07-24 07:17:02 Good evening! Let's do some stuff
+2013-07-24 07:17:04 Nothing to do.
+2013-07-24 07:17:04 Bye.
+2013-07-24 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 22:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-24 23:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 00:17:01 Good evening! Let's do some stuff
+2013-07-25 00:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/uDe83TXz1nY
+youtube-dl -f 18 -t --no-progress http://youtu.be/2sVeqjMlh2U
+2013-07-25 00:17:23 Emailed ifttt - added line to list file
+2013-07-25 00:17:23 Updating computer...
+2013-07-25 00:18:18 Done.
+2013-07-25 00:18:18 Updated directory: /mnt/usbdrive/youtube
+2013-07-25 00:18:18 youtube-dl -f 18 -t --no-progress http://youtu.be/uDe83TXz1nY
+[youtube] Setting language
+[youtube] uDe83TXz1nY: Downloading video webpage
+[youtube] uDe83TXz1nY: Downloading video info webpage
+[youtube] uDe83TXz1nY: Extracting video information
+[download] Destination: Make Hero's Aeolipile with Liquid Nitrogen - Live Experiments (Ep 47) - Head Squeeze-uDe83TXz1nY.mp4
+[download] Download completed
+2013-07-25 00:20:30 youtube-dl -f 18 -t --no-progress http://youtu.be/2sVeqjMlh2U
+[youtube] Setting language
+[youtube] 2sVeqjMlh2U: Downloading video webpage
+[youtube] 2sVeqjMlh2U: Downloading video info webpage
+[youtube] 2sVeqjMlh2U: Extracting video information
+[download] Destination: The first 4GEE Hackathon from EE-2sVeqjMlh2U.mp4
+[download] Download completed
+2013-07-25 00:23:42 List finished. Enjoy!
+2013-07-25 01:17:02 Good evening! Let's do some stuff
+2013-07-25 01:17:04 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/ZYD7GaZ_e4s
+2013-07-25 01:17:24 Emailed ifttt - added line to list file
+2013-07-25 01:17:24 Updating computer...
+2013-07-25 01:20:27 Done.
+2013-07-25 01:20:27 Updated directory: /mnt/usbdrive/youtube
+2013-07-25 01:20:27 youtube-dl -f 18 -t --no-progress http://youtu.be/ZYD7GaZ_e4s
+[youtube] Setting language
+[youtube] ZYD7GaZ_e4s: Downloading video webpage
+[youtube] ZYD7GaZ_e4s: Downloading video info webpage
+[youtube] ZYD7GaZ_e4s: Extracting video information
+[download] Destination: JESSICA NIGRI & CARLOS DANGER SAVE THE DAY-ZYD7GaZ_e4s.mp4
+[download] Download completed
+2013-07-25 01:25:42 List finished. Enjoy!
+2013-07-25 02:17:02 Good evening! Let's do some stuff
+2013-07-25 02:17:04 Nothing to do.
+2013-07-25 02:17:04 Bye.
+2013-07-25 03:17:02 Good evening! Let's do some stuff
+2013-07-25 03:17:03 Nothing to do.
+2013-07-25 03:17:03 Bye.
+2013-07-25 04:17:01 Good evening! Let's do some stuff
+2013-07-25 04:17:04 Nothing to do.
+2013-07-25 04:17:04 Bye.
+2013-07-25 05:17:02 Good evening! Let's do some stuff
+2013-07-25 05:17:03 Nothing to do.
+2013-07-25 05:17:03 Bye.
+2013-07-25 06:17:01 Good evening! Let's do some stuff
+2013-07-25 06:17:03 Nothing to do.
+2013-07-25 06:17:03 Bye.
+2013-07-25 07:17:02 Good evening! Let's do some stuff
+2013-07-25 07:17:03 Nothing to do.
+2013-07-25 07:17:03 Bye.
+2013-07-25 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-25 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-26 00:17:02 Good evening! Let's do some stuff
+2013-07-26 00:17:04 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/wmxUMcqGGTw
+youtube-dl -f 18 -t --no-progress http://youtu.be/ObbpSqXyBUM
+2013-07-26 00:17:24 Emailed ifttt - added line to list file
+2013-07-26 00:17:24 Updating computer...
+2013-07-26 00:18:20 Done.
+2013-07-26 00:18:20 Updated directory: /mnt/usbdrive/youtube
+2013-07-26 00:18:20 youtube-dl -f 18 -t --no-progress http://youtu.be/wmxUMcqGGTw
+[youtube] Setting language
+[youtube] wmxUMcqGGTw: Downloading video webpage
+[youtube] wmxUMcqGGTw: Downloading video info webpage
+[youtube] wmxUMcqGGTw: Extracting video information
+[download] Destination: WHISTLE WHILE I WORK IT (Chester See feat. Toby Turner with Wayne Brady)-wmxUMcqGGTw.mp4
+[download] Download completed
+2013-07-26 00:22:28 youtube-dl -f 18 -t --no-progress http://youtu.be/ObbpSqXyBUM
+[youtube] Setting language
+[youtube] ObbpSqXyBUM: Downloading video webpage
+[youtube] ObbpSqXyBUM: Downloading video info webpage
+[youtube] ObbpSqXyBUM: Extracting video information
+[download] Destination: THE SELFIE BANDITS STRIKE AGAIN!!-ObbpSqXyBUM.mp4
+[download] Download completed
+2013-07-26 00:28:44 List finished. Enjoy!
+2013-07-26 01:17:02 Good evening! Let's do some stuff
+2013-07-26 01:17:03 Nothing to do.
+2013-07-26 01:17:03 Bye.
+2013-07-26 02:17:01 Good evening! Let's do some stuff
+2013-07-26 02:17:03 Nothing to do.
+2013-07-26 02:17:03 Bye.
+2013-07-26 03:17:02 Good evening! Let's do some stuff
+2013-07-26 03:17:03 Nothing to do.
+2013-07-26 03:17:03 Bye.
+2013-07-26 04:17:02 Good evening! Let's do some stuff
+2013-07-26 04:17:04 Nothing to do.
+2013-07-26 04:17:04 Bye.
+2013-07-26 05:17:02 Good evening! Let's do some stuff
+2013-07-26 05:17:04 Nothing to do.
+2013-07-26 05:17:04 Bye.
+2013-07-26 06:17:02 Good evening! Let's do some stuff
+2013-07-26 06:17:03 Nothing to do.
+2013-07-26 06:17:03 Bye.
+2013-07-26 07:17:02 Good evening! Let's do some stuff
+2013-07-26 07:17:03 Nothing to do.
+2013-07-26 07:17:03 Bye.
+2013-07-26 08:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-26 09:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-26 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-26 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-26 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-26 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-26 20:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-26 21:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-26 22:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-27 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-27 16:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-27 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-27 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-27 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-27 20:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-27 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-27 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-27 23:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 00:17:03 Good evening! Let's do some stuff
+2013-07-28 00:17:05 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/tMKvUuktSww
+youtube-dl -f 18 -t --no-progress http://youtu.be/tFG3CG6KXt0
+youtube-dl -f 18 -t --no-progress http://youtu.be/hByu7J_yGOU
+youtube-dl -f 18 -t --no-progress http://youtu.be/JAQXJ1dLejM
+youtube-dl -f 18 -t --no-progress http://youtu.be/e4P0RxUtJkU
+2013-07-28 00:17:26 Emailed ifttt - added line to list file
+2013-07-28 00:17:26 Updating computer...
+2013-07-28 00:22:25 Done.
+2013-07-28 00:22:25 Updated directory: /mnt/usbdrive/youtube
+2013-07-28 00:22:25 youtube-dl -f 18 -t --no-progress http://youtu.be/tMKvUuktSww
+[youtube] Setting language
+[youtube] tMKvUuktSww: Downloading video webpage
+[youtube] tMKvUuktSww: Downloading video info webpage
+[youtube] tMKvUuktSww: Extracting video information
+[download] Destination: Why do we have accents - James May's Q&A (Ep 31) - Head Squeeze-tMKvUuktSww.mp4
+[download] Download completed
+2013-07-28 00:29:47 youtube-dl -f 18 -t --no-progress http://youtu.be/tFG3CG6KXt0
+[youtube] Setting language
+[youtube] tFG3CG6KXt0: Downloading video webpage
+[youtube] tFG3CG6KXt0: Downloading video info webpage
+[youtube] tFG3CG6KXt0: Extracting video information
+[download] Destination: Awesomesauce accent Extras - James May's Q&A (Ep 31) - Head Squeeze-tFG3CG6KXt0.mp4
+[download] Download completed
+2013-07-28 00:34:59 youtube-dl -f 18 -t --no-progress http://youtu.be/hByu7J_yGOU
+[youtube] Setting language
+[youtube] hByu7J_yGOU: Downloading video webpage
+[youtube] hByu7J_yGOU: Downloading video info webpage
+[youtube] hByu7J_yGOU: Extracting video information
+[download] Destination: Best Fails of the Week 4 July 2013 _ FailArmy-hByu7J_yGOU.mp4
+[download] Download completed
+2013-07-28 00:42:11 youtube-dl -f 18 -t --no-progress http://youtu.be/JAQXJ1dLejM
+[youtube] Setting language
+[youtube] JAQXJ1dLejM: Downloading video webpage
+[youtube] JAQXJ1dLejM: Downloading video info webpage
+[youtube] JAQXJ1dLejM: Extracting video information
+[download] Destination: Can you crush an oil drum using only air - Live Experiments (Ep 48) - Head Squeeze-JAQXJ1dLejM.mp4
+[download] Download completed
+2013-07-28 00:51:41 youtube-dl -f 18 -t --no-progress http://youtu.be/e4P0RxUtJkU
+[youtube] Setting language
+[youtube] e4P0RxUtJkU: Downloading video webpage
+[youtube] e4P0RxUtJkU: Downloading video info webpage
+[youtube] e4P0RxUtJkU: Extracting video information
+[download] Destination: BUTTER!! (Movie Club)-e4P0RxUtJkU.mp4
+[download] Download completed
+2013-07-28 00:59:07 List finished. Enjoy!
+2013-07-28 01:17:03 Good evening! Let's do some stuff
+2013-07-28 01:17:05 Nothing to do.
+2013-07-28 01:17:05 Bye.
+2013-07-28 02:17:03 Good evening! Let's do some stuff
+2013-07-28 02:17:05 Nothing to do.
+2013-07-28 02:17:05 Bye.
+2013-07-28 03:17:03 Good evening! Let's do some stuff
+2013-07-28 03:17:05 Nothing to do.
+2013-07-28 03:17:05 Bye.
+2013-07-28 04:17:03 Good evening! Let's do some stuff
+2013-07-28 04:17:05 Nothing to do.
+2013-07-28 04:17:05 Bye.
+2013-07-28 05:17:03 Good evening! Let's do some stuff
+2013-07-28 05:17:05 Nothing to do.
+2013-07-28 05:17:05 Bye.
+2013-07-28 06:17:03 Good evening! Let's do some stuff
+2013-07-28 06:18:03 Eeeeb. Well, that didn't work.
+Traceback (most recent call last):
+  File '/home/pi/apps/timedownload/timedownload.py', line 174, in go
+    getCommandList()
+  File '/home/pi/apps/timedownload/timedownload.py', line 37, in getCommandList
+    listFile = urllib2.urlopen(onlineListLocation)
+  File '/usr/lib/python2.7/urllib2.py', line 127, in urlopen
+    return _opener.open(url, data, timeout)
+  File '/usr/lib/python2.7/urllib2.py', line 407, in open
+    response = meth(req, response)
+  File '/usr/lib/python2.7/urllib2.py', line 520, in http_response
+    'http', request, response, code, msg, hdrs)
+  File '/usr/lib/python2.7/urllib2.py', line 439, in error
+    result = self._call_chain(*args)
+  File '/usr/lib/python2.7/urllib2.py', line 379, in _call_chain
+    result = func(*args)
+  File '/usr/lib/python2.7/urllib2.py', line 626, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File '/usr/lib/python2.7/urllib2.py', line 401, in open
+    response = self._open(req, data)
+  File '/usr/lib/python2.7/urllib2.py', line 419, in _open
+    '_open', req)
+  File '/usr/lib/python2.7/urllib2.py', line 379, in _call_chain
+    result = func(*args)
+  File '/usr/lib/python2.7/urllib2.py', line 1219, in https_open
+    return self.do_open(httplib.HTTPSConnection, req)
+  File '/usr/lib/python2.7/urllib2.py', line 1184, in do_open
+    r = h.getresponse(buffering=True)
+  File '/usr/lib/python2.7/httplib.py', line 1034, in getresponse
+    response.begin()
+  File '/usr/lib/python2.7/httplib.py', line 407, in begin
+    version, status, reason = self._read_status()
+  File '/usr/lib/python2.7/httplib.py', line 371, in _read_status
+    raise BadStatusLine(line)
+BadStatusLine: ''
+
+2013-07-28 07:17:02 Good evening! Let's do some stuff
+2013-07-28 07:17:04 Nothing to do.
+2013-07-28 07:17:04 Bye.
+2013-07-28 08:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 09:17:04 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 10:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 11:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 12:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 14:17:04 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 15:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 19:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-28 23:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 00:17:03 Good evening! Let's do some stuff
+2013-07-29 00:17:05 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/ofqmNlEjQo0
+youtube-dl -f 18 -t --no-progress http://youtu.be/e4tG0DUmXNc
+youtube-dl -f 18 -t --no-progress http://youtu.be/7uiv6tKtoKg
+2013-07-29 00:17:26 Emailed ifttt - added line to list file
+2013-07-29 00:17:26 Updating computer...
+2013-07-29 00:23:23 Done.
+2013-07-29 00:23:23 Updated directory: /mnt/usbdrive/youtube
+2013-07-29 00:23:23 youtube-dl -f 18 -t --no-progress http://youtu.be/ofqmNlEjQo0
+[youtube] Setting language
+[youtube] ofqmNlEjQo0: Downloading video webpage
+[youtube] ofqmNlEjQo0: Downloading video info webpage
+[youtube] ofqmNlEjQo0: Extracting video information
+[download] Destination: How will the world end - Sci Guide (Ep 30) - Head Squeeze-ofqmNlEjQo0.mp4
+[download] Download completed
+2013-07-29 00:26:40 youtube-dl -f 18 -t --no-progress http://youtu.be/e4tG0DUmXNc
+[youtube] Setting language
+[youtube] e4tG0DUmXNc: Downloading video webpage
+[youtube] e4tG0DUmXNc: Downloading video info webpage
+[youtube] e4tG0DUmXNc: Extracting video information
+[download] Destination: Noah's Single, 'Call Home,' On iTunes July 30!-e4tG0DUmXNc.mp4
+[download] Download completed
+2013-07-29 00:27:20 youtube-dl -f 18 -t --no-progress http://youtu.be/7uiv6tKtoKg
+[youtube] Setting language
+[youtube] 7uiv6tKtoKg: Downloading video webpage
+[youtube] 7uiv6tKtoKg: Downloading video info webpage
+[youtube] 7uiv6tKtoKg: Extracting video information
+[download] Destination: What Will We Miss-7uiv6tKtoKg.mp4
+[download] Download completed
+2013-07-29 00:33:53 List finished. Enjoy!
+2013-07-29 01:17:02 Good evening! Let's do some stuff
+2013-07-29 01:17:04 Nothing to do.
+2013-07-29 01:17:04 Bye.
+2013-07-29 02:17:02 Good evening! Let's do some stuff
+2013-07-29 02:17:03 Nothing to do.
+2013-07-29 02:17:03 Bye.
+2013-07-29 03:17:02 Good evening! Let's do some stuff
+2013-07-29 03:17:04 Nothing to do.
+2013-07-29 03:17:04 Bye.
+2013-07-29 04:17:01 Good evening! Let's do some stuff
+2013-07-29 04:17:03 Nothing to do.
+2013-07-29 04:17:03 Bye.
+2013-07-29 05:17:02 Good evening! Let's do some stuff
+2013-07-29 05:17:03 Nothing to do.
+2013-07-29 05:17:03 Bye.
+2013-07-29 06:17:01 Good evening! Let's do some stuff
+2013-07-29 06:17:03 Nothing to do.
+2013-07-29 06:17:03 Bye.
+2013-07-29 07:17:02 Good evening! Let's do some stuff
+2013-07-29 07:17:03 Nothing to do.
+2013-07-29 07:17:03 Bye.
+2013-07-29 08:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 13:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 14:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 18:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 19:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-29 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 00:17:02 Good evening! Let's do some stuff
+2013-07-30 00:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/OTP5g_O5UZs
+youtube-dl -f 18 -t --no-progress http://youtu.be/A5ZXMl_TLNo
+youtube-dl -f 18 -t --no-progress http://youtu.be/5hDZbroaQDc
+2013-07-30 00:17:24 Emailed ifttt - added line to list file
+2013-07-30 00:17:24 Updating computer...
+2013-07-30 00:20:19 Done.
+2013-07-30 00:20:27 Updated directory: /mnt/usbdrive/youtube
+2013-07-30 00:20:27 youtube-dl -f 18 -t --no-progress http://youtu.be/OTP5g_O5UZs
+[youtube] Setting language
+[youtube] OTP5g_O5UZs: Downloading video webpage
+[youtube] OTP5g_O5UZs: Downloading video info webpage
+[youtube] OTP5g_O5UZs: Extracting video information
+[download] Destination: Infinite Charlies-OTP5g_O5UZs.mp4
+[download] Download completed
+2013-07-30 00:23:03 youtube-dl -f 18 -t --no-progress http://youtu.be/A5ZXMl_TLNo
+[youtube] Setting language
+[youtube] A5ZXMl_TLNo: Downloading video webpage
+[youtube] A5ZXMl_TLNo: Downloading video info webpage
+[youtube] A5ZXMl_TLNo: Extracting video information
+[download] Destination: FEDEX EMPLOYEE CAUGHT ON CAMERA!!-A5ZXMl_TLNo.mp4
+[download] Download completed
+2013-07-30 00:30:44 youtube-dl -f 18 -t --no-progress http://youtu.be/5hDZbroaQDc
+[youtube] Setting language
+[youtube] 5hDZbroaQDc: Downloading video webpage
+[youtube] 5hDZbroaQDc: Downloading video info webpage
+[youtube] 5hDZbroaQDc: Extracting video information
+[youtube] 5hDZbroaQDc: Encrypted signatures detected.
+[download] Destination: Fall Out Boy - The Phoenix (Official Video) - Part 2 of 11-5hDZbroaQDc.mp4
+[download] Download completed
+2013-07-30 00:36:36 List finished. Enjoy!
+2013-07-30 01:17:02 Good evening! Let's do some stuff
+2013-07-30 01:17:03 Nothing to do.
+2013-07-30 01:17:03 Bye.
+2013-07-30 02:17:02 Good evening! Let's do some stuff
+2013-07-30 02:17:17 Nothing to do.
+2013-07-30 02:17:17 Bye.
+2013-07-30 03:17:02 Good evening! Let's do some stuff
+2013-07-30 03:17:04 Nothing to do.
+2013-07-30 03:17:04 Bye.
+2013-07-30 04:17:01 Good evening! Let's do some stuff
+2013-07-30 04:17:06 Nothing to do.
+2013-07-30 04:17:07 Bye.
+2013-07-30 05:17:02 Good evening! Let's do some stuff
+2013-07-30 05:17:03 Nothing to do.
+2013-07-30 05:17:03 Bye.
+2013-07-30 06:17:02 Good evening! Let's do some stuff
+2013-07-30 06:17:04 Nothing to do.
+2013-07-30 06:17:04 Bye.
+2013-07-30 07:17:02 Good evening! Let's do some stuff
+2013-07-30 07:17:03 Nothing to do.
+2013-07-30 07:17:03 Bye.
+2013-07-30 08:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 13:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 14:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 19:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 20:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-30 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 00:17:04 Good evening! Let's do some stuff
+2013-07-31 00:17:06 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/sue_esAhcUI
+youtube-dl -f 18 -t --no-progress http://youtu.be/HeSM12scvfc
+2013-07-31 00:17:26 Emailed ifttt - added line to list file
+2013-07-31 00:17:26 Updating computer...
+2013-07-31 00:24:20 Done.
+2013-07-31 00:24:20 Updated directory: /mnt/usbdrive/youtube
+2013-07-31 00:24:20 youtube-dl -f 18 -t --no-progress http://youtu.be/sue_esAhcUI
+[youtube] Setting language
+[youtube] sue_esAhcUI: Downloading video webpage
+[youtube] sue_esAhcUI: Downloading video info webpage
+[youtube] sue_esAhcUI: Extracting video information
+[download] Destination: How far away might extra-terrestrial life be - Number Hub (Ep 27) - Head Squeeze-sue_esAhcUI.mp4
+[download] Download completed
+2013-07-31 00:27:00 youtube-dl -f 18 -t --no-progress http://youtu.be/HeSM12scvfc
+[youtube] Setting language
+[youtube] HeSM12scvfc: Downloading video webpage
+[youtube] HeSM12scvfc: Downloading video info webpage
+[youtube] HeSM12scvfc: Extracting video information
+[download] Destination: GIANT BABY BORN! WOMEN EVERYWHERE CRINGE!-HeSM12scvfc.mp4
+[download] Download completed
+2013-07-31 00:34:25 List finished. Enjoy!
+2013-07-31 01:17:03 Good evening! Let's do some stuff
+2013-07-31 01:17:09 Nothing to do.
+2013-07-31 01:17:09 Bye.
+2013-07-31 02:17:03 Good evening! Let's do some stuff
+2013-07-31 02:17:06 Nothing to do.
+2013-07-31 02:17:06 Bye.
+2013-07-31 03:17:03 Good evening! Let's do some stuff
+2013-07-31 03:17:05 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/f-Y1Zoe3nwY
+2013-07-31 03:17:25 Emailed ifttt - added line to list file
+2013-07-31 03:17:25 Updating computer...
+2013-07-31 03:19:15 Done.
+2013-07-31 03:19:15 Updated directory: /mnt/usbdrive/youtube
+2013-07-31 03:19:15 youtube-dl -f 18 -t --no-progress http://youtu.be/f-Y1Zoe3nwY
+[youtube] Setting language
+[youtube] f-Y1Zoe3nwY: Downloading video webpage
+[youtube] f-Y1Zoe3nwY: Downloading video info webpage
+[youtube] f-Y1Zoe3nwY: Extracting video information
+[download] Destination: Noah Album Release Celebration On StageIt-f-Y1Zoe3nwY.mp4
+[download] Download completed
+2013-07-31 03:20:16 List finished. Enjoy!
+2013-07-31 04:17:02 Good evening! Let's do some stuff
+2013-07-31 04:17:04 Nothing to do.
+2013-07-31 04:17:04 Bye.
+2013-07-31 05:17:02 Good evening! Let's do some stuff
+2013-07-31 05:17:04 Nothing to do.
+2013-07-31 05:17:04 Bye.
+2013-07-31 06:17:03 Good evening! Let's do some stuff
+2013-07-31 06:17:05 Nothing to do.
+2013-07-31 06:17:05 Bye.
+2013-07-31 07:17:04 Good evening! Let's do some stuff
+2013-07-31 07:17:05 Nothing to do.
+2013-07-31 07:17:05 Bye.
+2013-07-31 08:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 09:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 10:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 11:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 12:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 13:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 14:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 15:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 18:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-07-31 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 00:17:02 Good evening! Let's do some stuff
+2013-08-01 00:17:04 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/MMoHRaVSWnY
+youtube-dl -f 18 -t --no-progress http://youtu.be/th_9ZR2I0_w
+youtube-dl -f 18 -t --no-progress http://youtu.be/lmeOhGz09oA
+2013-08-01 00:17:24 Emailed ifttt - added line to list file
+2013-08-01 00:17:24 Updating computer...
+2013-08-01 00:18:27 Done.
+2013-08-01 00:18:36 Updated directory: /mnt/usbdrive/youtube
+2013-08-01 00:18:36 youtube-dl -f 18 -t --no-progress http://youtu.be/MMoHRaVSWnY
+[youtube] Setting language
+[youtube] MMoHRaVSWnY: Downloading video webpage
+[youtube] MMoHRaVSWnY: Downloading video info webpage
+[youtube] MMoHRaVSWnY: Extracting video information
+[download] Destination: Build Strong Structures with Weak Materials - Live Experiments (Ep 49) - Head Squeeze-MMoHRaVSWnY.mp4
+[download] Download completed
+2013-08-01 00:23:51 youtube-dl -f 18 -t --no-progress http://youtu.be/th_9ZR2I0_w
+[youtube] Setting language
+[youtube] th_9ZR2I0_w: Downloading video webpage
+[youtube] th_9ZR2I0_w: Downloading video info webpage
+[youtube] th_9ZR2I0_w: Extracting video information
+[download] Destination: Do We Expand With The Universe-th_9ZR2I0_w.mp4
+[download] Download completed
+2013-08-01 00:25:09 youtube-dl -f 18 -t --no-progress http://youtu.be/lmeOhGz09oA
+[youtube] Setting language
+[youtube] lmeOhGz09oA: Downloading video webpage
+[youtube] lmeOhGz09oA: Downloading video info webpage
+[youtube] lmeOhGz09oA: Extracting video information
+[download] Destination: DEA TORTURES MAN FOR DAYS-lmeOhGz09oA.mp4
+[download] Download completed
+2013-08-01 00:29:51 List finished. Enjoy!
+2013-08-01 01:17:02 Good evening! Let's do some stuff
+2013-08-01 01:17:04 Nothing to do.
+2013-08-01 01:17:04 Bye.
+2013-08-01 02:17:02 Good evening! Let's do some stuff
+2013-08-01 02:17:03 Nothing to do.
+2013-08-01 02:17:03 Bye.
+2013-08-01 03:17:02 Good evening! Let's do some stuff
+2013-08-01 03:17:04 Nothing to do.
+2013-08-01 03:17:04 Bye.
+2013-08-01 04:17:02 Good evening! Let's do some stuff
+2013-08-01 04:17:04 Nothing to do.
+2013-08-01 04:17:04 Bye.
+2013-08-01 05:17:02 Good evening! Let's do some stuff
+2013-08-01 05:17:03 Nothing to do.
+2013-08-01 05:17:03 Bye.
+2013-08-01 06:17:01 Good evening! Let's do some stuff
+2013-08-01 06:17:03 Nothing to do.
+2013-08-01 06:17:03 Bye.
+2013-08-01 07:17:02 Good evening! Let's do some stuff
+2013-08-01 07:17:04 Nothing to do.
+2013-08-01 07:17:04 Bye.
+2013-08-01 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 16:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 20:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 21:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 22:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-01 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 00:17:02 Good evening! Let's do some stuff
+2013-08-02 00:17:04 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/ecVRwJrXahQ
+youtube-dl -f 18 -t --no-progress http://youtu.be/PyZodYeLPeY
+2013-08-02 00:17:24 Emailed ifttt - added line to list file
+2013-08-02 00:17:24 Updating computer...
+2013-08-02 00:18:20 Done.
+2013-08-02 00:18:20 Updated directory: /mnt/usbdrive/youtube
+2013-08-02 00:18:20 youtube-dl -f 18 -t --no-progress http://youtu.be/ecVRwJrXahQ
+[youtube] Setting language
+[youtube] ecVRwJrXahQ: Downloading video webpage
+[youtube] ecVRwJrXahQ: Downloading video info webpage
+[youtube] ecVRwJrXahQ: Extracting video information
+[download] Destination: James May introduces _ Geek Week _ on Head Squeeze-ecVRwJrXahQ.mp4
+[download] Download completed
+2013-08-02 00:19:00 youtube-dl -f 18 -t --no-progress http://youtu.be/PyZodYeLPeY
+[youtube] Setting language
+[youtube] PyZodYeLPeY: Downloading video webpage
+[youtube] PyZodYeLPeY: Downloading video info webpage
+[youtube] PyZodYeLPeY: Extracting video information
+[download] Destination: LINDSAY LOHAN TAKES OVER LATE NIGHT!!-PyZodYeLPeY.mp4
+[download] Download completed
+2013-08-02 00:24:23 List finished. Enjoy!
+2013-08-02 01:17:02 Good evening! Let's do some stuff
+2013-08-02 01:17:03 Nothing to do.
+2013-08-02 01:17:03 Bye.
+2013-08-02 02:17:01 Good evening! Let's do some stuff
+2013-08-02 02:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/hMIHFR_P7QY
+2013-08-02 02:17:23 Emailed ifttt - added line to list file
+2013-08-02 02:17:23 Updating computer...
+2013-08-02 02:18:21 Done.
+2013-08-02 02:18:21 Updated directory: /mnt/usbdrive/youtube
+2013-08-02 02:18:21 youtube-dl -f 18 -t --no-progress http://youtu.be/hMIHFR_P7QY
+[youtube] Setting language
+[youtube] hMIHFR_P7QY: Downloading video webpage
+[youtube] hMIHFR_P7QY: Downloading video info webpage
+[youtube] hMIHFR_P7QY: Extracting video information
+[download] Destination: The Poop Cycle-hMIHFR_P7QY.mp4
+[download] Download completed
+2013-08-02 02:20:06 List finished. Enjoy!
+2013-08-02 03:17:02 Good evening! Let's do some stuff
+2013-08-02 03:17:04 Nothing to do.
+2013-08-02 03:17:04 Bye.
+2013-08-02 04:17:02 Good evening! Let's do some stuff
+2013-08-02 04:17:03 Nothing to do.
+2013-08-02 04:17:03 Bye.
+2013-08-02 05:17:01 Good evening! Let's do some stuff
+2013-08-02 05:17:03 Nothing to do.
+2013-08-02 05:17:03 Bye.
+2013-08-02 06:17:01 Good evening! Let's do some stuff
+2013-08-02 06:17:03 Nothing to do.
+2013-08-02 06:17:03 Bye.
+2013-08-02 07:17:01 Good evening! Let's do some stuff
+2013-08-02 07:17:03 Nothing to do.
+2013-08-02 07:17:03 Bye.
+2013-08-02 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-02 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 00:17:02 Good evening! Let's do some stuff
+2013-08-03 00:17:04 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/nhMECbDRVLI
+youtube-dl -f 18 -t --no-progress http://youtu.be/06ypmi_6jik
+youtube-dl -f 18 -t --no-progress http://youtu.be/Q1pfDquA65c
+youtube-dl -f 18 -t --no-progress http://youtu.be/QFf5cC0T9is
+youtube-dl -f 18 -t --no-progress http://youtu.be/acQKwb03kuM
+2013-08-03 00:17:25 Emailed ifttt - added line to list file
+2013-08-03 00:17:25 Updating computer...
+2013-08-03 00:18:19 Done.
+2013-08-03 00:18:19 Updated directory: /mnt/usbdrive/youtube
+2013-08-03 00:18:19 youtube-dl -f 18 -t --no-progress http://youtu.be/nhMECbDRVLI
+[youtube] Setting language
+[youtube] nhMECbDRVLI: Downloading video webpage
+[youtube] nhMECbDRVLI: Downloading video info webpage
+[youtube] nhMECbDRVLI: Extracting video information
+[download] Destination: Why is a bicycle easier to balance at speed - James May's Q&A (Ep 32) - Head Squeeze-nhMECbDRVLI.mp4
+[download] Download completed
+2013-08-03 00:22:40 youtube-dl -f 18 -t --no-progress http://youtu.be/06ypmi_6jik
+[youtube] Setting language
+[youtube] 06ypmi_6jik: Downloading video webpage
+[youtube] 06ypmi_6jik: Downloading video info webpage
+[youtube] 06ypmi_6jik: Extracting video information
+[download] Destination: James May on penny-farthings - Extras - James May's Q&A (Ep 32) - Head Squeeze-06ypmi_6jik.mp4
+[download] Download completed
+2013-08-03 00:23:52 youtube-dl -f 18 -t --no-progress http://youtu.be/Q1pfDquA65c
+[youtube] Setting language
+[youtube] Q1pfDquA65c: Downloading video webpage
+[youtube] Q1pfDquA65c: Downloading video info webpage
+[youtube] Q1pfDquA65c: Extracting video information
+[download] Destination: 2nd HOTTEST GIRL SONG-Q1pfDquA65c.mp4
+[download] Download completed
+2013-08-03 00:27:13 youtube-dl -f 18 -t --no-progress http://youtu.be/QFf5cC0T9is
+[youtube] Setting language
+[youtube] QFf5cC0T9is: Downloading video webpage
+[youtube] QFf5cC0T9is: Downloading video info webpage
+[youtube] QFf5cC0T9is: Extracting video information
+[download] Destination: Best Fails of the Week 1 August 2013 _ FailArmy-QFf5cC0T9is.mp4
+[download] Download completed
+2013-08-03 00:31:16 youtube-dl -f 18 -t --no-progress http://youtu.be/acQKwb03kuM
+[youtube] Setting language
+[youtube] acQKwb03kuM: Downloading video webpage
+[youtube] acQKwb03kuM: Downloading video info webpage
+[youtube] acQKwb03kuM: Extracting video information
+[download] Destination: vauxhall egr valve removal and cleaning-acQKwb03kuM.mp4
+[download] Download completed
+2013-08-03 00:37:14 List finished. Enjoy!
+2013-08-03 01:17:02 Good evening! Let's do some stuff
+2013-08-03 01:17:04 Nothing to do.
+2013-08-03 01:17:04 Bye.
+2013-08-03 02:17:02 Good evening! Let's do some stuff
+2013-08-03 02:17:04 Nothing to do.
+2013-08-03 02:17:04 Bye.
+2013-08-03 03:17:02 Good evening! Let's do some stuff
+2013-08-03 03:17:03 Nothing to do.
+2013-08-03 03:17:03 Bye.
+2013-08-03 04:17:01 Good evening! Let's do some stuff
+2013-08-03 04:17:03 Nothing to do.
+2013-08-03 04:17:03 Bye.
+2013-08-03 05:17:02 Good evening! Let's do some stuff
+2013-08-03 05:17:04 Nothing to do.
+2013-08-03 05:17:04 Bye.
+2013-08-03 06:17:02 Good evening! Let's do some stuff
+2013-08-03 06:17:04 Nothing to do.
+2013-08-03 06:17:04 Bye.
+2013-08-03 07:17:02 Good evening! Let's do some stuff
+2013-08-03 07:17:03 Nothing to do.
+2013-08-03 07:17:03 Bye.
+2013-08-03 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 10:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-03 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 00:17:02 Good evening! Let's do some stuff
+2013-08-04 00:17:04 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/Ypj4s3H5C_Y
+youtube-dl -f 18 -t --no-progress http://youtu.be/graZ3YOy3U8
+2013-08-04 00:17:24 Emailed ifttt - added line to list file
+2013-08-04 00:17:24 Updating computer...
+2013-08-04 00:20:32 Done.
+2013-08-04 00:20:32 Updated directory: /mnt/usbdrive/youtube
+2013-08-04 00:20:32 youtube-dl -f 18 -t --no-progress http://youtu.be/Ypj4s3H5C_Y
+[youtube] Setting language
+[youtube] Ypj4s3H5C_Y: Downloading video webpage
+[youtube] Ypj4s3H5C_Y: Downloading video info webpage
+[youtube] Ypj4s3H5C_Y: Extracting video information
+[download] Destination: Can we pierce a bag full of water without it leaking - Live Experiments - Head Squeeze-Ypj4s3H5C_Y.mp4
+[download] Download completed
+2013-08-04 00:24:06 youtube-dl -f 18 -t --no-progress http://youtu.be/graZ3YOy3U8
+[youtube] Setting language
+[youtube] graZ3YOy3U8: Downloading video webpage
+[youtube] graZ3YOy3U8: Downloading video info webpage
+[youtube] graZ3YOy3U8: Extracting video information
+[download] Destination: [APPLICATIONS NOW CLOSED]-graZ3YOy3U8.mp4
+[download] Download completed
+2013-08-04 00:25:08 List finished. Enjoy!
+2013-08-04 01:17:02 Good evening! Let's do some stuff
+2013-08-04 01:17:04 Nothing to do.
+2013-08-04 01:17:04 Bye.
+2013-08-04 02:17:02 Good evening! Let's do some stuff
+2013-08-04 02:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/HD38a7fl310
+2013-08-04 02:17:23 Emailed ifttt - added line to list file
+2013-08-04 02:17:23 Updating computer...
+2013-08-04 02:18:23 Done.
+2013-08-04 02:18:23 Updated directory: /mnt/usbdrive/youtube
+2013-08-04 02:18:23 youtube-dl -f 18 -t --no-progress http://youtu.be/HD38a7fl310
+[youtube] Setting language
+[youtube] HD38a7fl310: Downloading video webpage
+[youtube] HD38a7fl310: Downloading video info webpage
+[youtube] HD38a7fl310: Extracting video information
+[download] Destination: Noah Photo Shoot With Jeremy Cowart-HD38a7fl310.mp4
+[download] Download completed
+2013-08-04 02:20:27 List finished. Enjoy!
+2013-08-04 03:17:02 Good evening! Let's do some stuff
+2013-08-04 03:17:04 Nothing to do.
+2013-08-04 03:17:04 Bye.
+2013-08-04 04:17:02 Good evening! Let's do some stuff
+2013-08-04 04:17:04 Nothing to do.
+2013-08-04 04:17:04 Bye.
+2013-08-04 05:17:02 Good evening! Let's do some stuff
+2013-08-04 05:17:03 Nothing to do.
+2013-08-04 05:17:03 Bye.
+2013-08-04 06:17:02 Good evening! Let's do some stuff
+2013-08-04 06:17:04 Nothing to do.
+2013-08-04 06:17:04 Bye.
+2013-08-04 07:17:02 Good evening! Let's do some stuff
+2013-08-04 07:17:04 Nothing to do.
+2013-08-04 07:17:04 Bye.
+2013-08-04 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 12:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 13:17:04 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 14:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 17:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-04 23:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 00:17:03 Good evening! Let's do some stuff
+2013-08-05 00:17:05 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/yI2AbCy1NVw
+2013-08-05 00:17:26 Emailed ifttt - added line to list file
+2013-08-05 00:17:26 Updating computer...
+2013-08-05 00:20:12 Done.
+2013-08-05 00:20:12 Updated directory: /mnt/usbdrive/youtube
+2013-08-05 00:20:12 youtube-dl -f 18 -t --no-progress http://youtu.be/yI2AbCy1NVw
+[youtube] Setting language
+[youtube] yI2AbCy1NVw: Downloading video webpage
+[youtube] yI2AbCy1NVw: Downloading video info webpage
+[youtube] yI2AbCy1NVw: Extracting video information
+[download] Destination: The Fallen (feat. KickthePJ) _ Geek Week-yI2AbCy1NVw.mp4
+[download] Download completed
+2013-08-05 00:21:38 List finished. Enjoy!
+2013-08-05 01:17:02 Good evening! Let's do some stuff
+2013-08-05 01:17:04 Nothing to do.
+2013-08-05 01:17:04 Bye.
+2013-08-05 02:17:03 Good evening! Let's do some stuff
+2013-08-05 02:17:05 Nothing to do.
+2013-08-05 02:17:05 Bye.
+2013-08-05 03:17:02 Good evening! Let's do some stuff
+2013-08-05 03:17:05 Nothing to do.
+2013-08-05 03:17:05 Bye.
+2013-08-05 04:17:02 Good evening! Let's do some stuff
+2013-08-05 04:17:04 Nothing to do.
+2013-08-05 04:17:04 Bye.
+2013-08-05 05:17:03 Good evening! Let's do some stuff
+2013-08-05 05:17:05 Nothing to do.
+2013-08-05 05:17:05 Bye.
+2013-08-05 06:17:03 Good evening! Let's do some stuff
+2013-08-05 06:17:15 Nothing to do.
+2013-08-05 06:17:15 Bye.
+2013-08-05 07:17:03 Good evening! Let's do some stuff
+2013-08-05 07:17:06 Nothing to do.
+2013-08-05 07:17:06 Bye.
+2013-08-05 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 22:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-05 23:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 00:17:02 Good evening! Let's do some stuff
+2013-08-06 00:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/LXw7x7b61qE
+youtube-dl -f 18 -t --no-progress http://youtu.be/VDGzzGRKukE
+youtube-dl -f 18 -t --no-progress http://youtu.be/6Zim8zL3Q5k
+2013-08-06 00:17:23 Emailed ifttt - added line to list file
+2013-08-06 00:17:23 Updating computer...
+2013-08-06 00:18:18 Done.
+2013-08-06 00:18:18 Updated directory: /mnt/usbdrive/youtube
+2013-08-06 00:18:18 youtube-dl -f 18 -t --no-progress http://youtu.be/LXw7x7b61qE
+[youtube] Setting language
+[youtube] LXw7x7b61qE: Downloading video webpage
+[youtube] LXw7x7b61qE: Downloading video info webpage
+[youtube] LXw7x7b61qE: Extracting video information
+[download] Destination: Greg Foot introduces Geek Week - Head Squeeze-LXw7x7b61qE.mp4
+[download] Download completed
+2013-08-06 00:18:43 youtube-dl -f 18 -t --no-progress http://youtu.be/VDGzzGRKukE
+[youtube] Setting language
+[youtube] VDGzzGRKukE: Downloading video webpage
+[youtube] VDGzzGRKukE: Downloading video info webpage
+[youtube] VDGzzGRKukE: Extracting video information
+[download] Destination: SPOILERS_ Peter Capaldi is the New Doctor! - Doctor Who (2013) - BBC-VDGzzGRKukE.mp4
+[download] Download completed
+2013-08-06 00:18:58 youtube-dl -f 18 -t --no-progress http://youtu.be/6Zim8zL3Q5k
+[youtube] Setting language
+[youtube] 6Zim8zL3Q5k: Downloading video webpage
+[youtube] 6Zim8zL3Q5k: Downloading video info webpage
+[youtube] 6Zim8zL3Q5k: Extracting video information
+[download] Destination: SPOILERS_ Peter Capaldi is introduced to the world as the next Doctor! - Doctor Who - BBC One-6Zim8zL3Q5k.mp4
+[download] Download completed
+2013-08-06 00:23:59 List finished. Enjoy!
+2013-08-06 01:17:02 Good evening! Let's do some stuff
+2013-08-06 01:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/MbJAecwDW0U
+2013-08-06 01:17:24 Emailed ifttt - added line to list file
+2013-08-06 01:17:24 Updating computer...
+2013-08-06 01:18:28 Done.
+2013-08-06 01:18:28 Updated directory: /mnt/usbdrive/youtube
+2013-08-06 01:18:28 youtube-dl -f 18 -t --no-progress http://youtu.be/MbJAecwDW0U
+[youtube] Setting language
+[youtube] MbJAecwDW0U: Downloading video webpage
+[youtube] MbJAecwDW0U: Downloading video info webpage
+[youtube] MbJAecwDW0U: Extracting video information
+[download] Destination: LINDSAY LOHAN GETS NEKID ON VIDEO & NEW NSA COVER UPS!-MbJAecwDW0U.mp4
+[download] Download completed
+2013-08-06 01:25:40 List finished. Enjoy!
+2013-08-06 02:17:02 Good evening! Let's do some stuff
+2013-08-06 02:17:03 Nothing to do.
+2013-08-06 02:17:03 Bye.
+2013-08-06 03:17:01 Good evening! Let's do some stuff
+2013-08-06 03:17:03 Nothing to do.
+2013-08-06 03:17:03 Bye.
+2013-08-06 04:17:02 Good evening! Let's do some stuff
+2013-08-06 04:17:04 Nothing to do.
+2013-08-06 04:17:04 Bye.
+2013-08-06 05:17:02 Good evening! Let's do some stuff
+2013-08-06 05:17:03 Nothing to do.
+2013-08-06 05:17:03 Bye.
+2013-08-06 06:17:01 Good evening! Let's do some stuff
+2013-08-06 06:17:03 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/KAbMjI71JqY
+2013-08-06 06:17:23 Emailed ifttt - added line to list file
+2013-08-06 06:17:23 Updating computer...
+2013-08-06 06:18:18 Done.
+2013-08-06 06:18:18 Updated directory: /mnt/usbdrive/youtube
+2013-08-06 06:18:18 youtube-dl -f 18 -t --no-progress http://youtu.be/KAbMjI71JqY
+[youtube] Setting language
+[youtube] KAbMjI71JqY: Downloading video webpage
+[youtube] KAbMjI71JqY: Downloading video info webpage
+[youtube] KAbMjI71JqY: Extracting video information
+[download] Destination: The Science of AsapSCIENCE - Behind The Scenes-KAbMjI71JqY.mp4
+[download] Download completed
+2013-08-06 06:23:44 List finished. Enjoy!
+2013-08-06 07:17:02 Good evening! Let's do some stuff
+2013-08-06 07:17:04 Nothing to do.
+2013-08-06 07:17:04 Bye.
+2013-08-06 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 12:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 13:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 14:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 15:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 16:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 20:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 21:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 22:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-06 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 00:17:02 Good evening! Let's do some stuff
+2013-08-07 00:17:05 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/4l8M5P__Qd8
+youtube-dl -f 18 -t --no-progress http://youtu.be/00lLL82_YjY
+youtube-dl -f 18 -t --no-progress http://youtu.be/hqiJQrDHvnQ
+youtube-dl -f 18 -t --no-progress http://youtu.be/DUjjQchy_HU
+youtube-dl -f 18 -t --no-progress http://youtu.be/annVRxRjj4c
+youtube-dl -f 18 -t --no-progress http://youtu.be/OfdiE-BmPq0
+youtube-dl -f 18 -t --no-progress http://youtu.be/dDhPY0fKjzQ
+youtube-dl -f 18 -t --no-progress http://youtu.be/iedPA_tJ2HI
+2013-08-07 00:17:25 Emailed ifttt - added line to list file
+2013-08-07 00:17:25 Updating computer...
+2013-08-07 00:26:51 Done.
+2013-08-07 00:26:51 Updated directory: /mnt/usbdrive/youtube
+2013-08-07 00:26:51 youtube-dl -f 18 -t --no-progress http://youtu.be/4l8M5P__Qd8
+[youtube] Setting language
+[youtube] 4l8M5P__Qd8: Downloading video webpage
+[youtube] 4l8M5P__Qd8: Downloading video info webpage
+[youtube] 4l8M5P__Qd8: Extracting video information
+[download] Destination: Greg Foot pushes his body to the max for Geek Week - Live Experiments - Head Squeeze-4l8M5P__Qd8.mp4
+[download] Download completed
+2013-08-07 01:06:14 youtube-dl -f 18 -t --no-progress http://youtu.be/00lLL82_YjY
+[youtube] Setting language
+[youtube] 00lLL82_YjY: Downloading video webpage
+[youtube] 00lLL82_YjY: Downloading video info webpage
+[youtube] 00lLL82_YjY: Extracting video information
+[download] Destination: Geek Week - When James May met Greg Foot at YouTube HQ - Head Squeeze-00lLL82_YjY.mp4
+2013-08-07 01:17:02 Good evening! Let's do some stuff
+2013-08-07 01:18:45 Nothing to do.
+2013-08-07 01:18:45 Bye.
+2013-08-07 01:39:38 youtube-dl -f 18 -t --no-progress http://youtu.be/hqiJQrDHvnQ
+[youtube] Setting language
+[youtube] hqiJQrDHvnQ: Downloading video webpage
+[youtube] hqiJQrDHvnQ: Downloading video info webpage
+[youtube] hqiJQrDHvnQ: Extracting video information
+[download] Destination: Geek Week - Free Runner's Epic Fall at the British Museum with Head Squeeze-hqiJQrDHvnQ.mp4
+[download] Download completed
+2013-08-07 02:15:19 youtube-dl -f 18 -t --no-progress http://youtu.be/DUjjQchy_HU
+[youtube] Setting language
+[youtube] DUjjQchy_HU: Downloading video webpage
+[youtube] DUjjQchy_HU: Downloading video info webpage
+[youtube] DUjjQchy_HU: Extracting video information
+[download] Destination: Geek Week - Is time travel possible - Sci Guide - Head Squeeze-DUjjQchy_HU.mp4
+2013-08-07 02:17:02 Good evening! Let's do some stuff
+2013-08-07 02:17:25 Nothing to do.
+2013-08-07 02:17:25 Bye.
+2013-08-07 02:39:49 youtube-dl -f 18 -t --no-progress http://youtu.be/annVRxRjj4c
+[youtube] Setting language
+[youtube] annVRxRjj4c: Downloading video webpage
+[youtube] annVRxRjj4c: Downloading video info webpage
+[youtube] annVRxRjj4c: Extracting video information
+[download] Destination: Geek Week - Can we build a lift into space - James May's Q&A (Ep 33) - Head Squeeze-annVRxRjj4c.mp4
+2013-08-07 03:17:02 Good evening! Let's do some stuff
+2013-08-07 03:17:51 Nothing to do.
+2013-08-07 03:17:51 Bye.
+2013-08-07 03:22:54 youtube-dl -f 18 -t --no-progress http://youtu.be/OfdiE-BmPq0
+[youtube] Setting language
+[youtube] OfdiE-BmPq0: Downloading video webpage
+[youtube] OfdiE-BmPq0: Downloading video info webpage
+[youtube] OfdiE-BmPq0: Extracting video information
+[download] Destination: Geek Week - James May has farted in a space suit! - Q&A Extras - Head Squeeze-OfdiE-BmPq0.mp4
+[download] Download completed
+2013-08-07 03:34:04 youtube-dl -f 18 -t --no-progress http://youtu.be/dDhPY0fKjzQ
+[youtube] Setting language
+[youtube] dDhPY0fKjzQ: Downloading video webpage
+[youtube] dDhPY0fKjzQ: Downloading video info webpage
+[youtube] dDhPY0fKjzQ: Extracting video information
+[download] Destination: Dream Theater - The Enemy Inside-dDhPY0fKjzQ.mp4
+[download] Download completed
+2013-08-07 03:51:28 youtube-dl -f 18 -t --no-progress http://youtu.be/iedPA_tJ2HI
+[youtube] Setting language
+[youtube] iedPA_tJ2HI: Downloading video webpage
+[youtube] iedPA_tJ2HI: Downloading video info webpage
+[youtube] iedPA_tJ2HI: Extracting video information
+[download] Destination: THE #1 PARTY SCHOOL AND D_CK ASTRONAUTS-iedPA_tJ2HI.mp4
+2013-08-07 04:17:02 Good evening! Let's do some stuff
+2013-08-07 04:18:18 Nothing to do.
+2013-08-07 04:18:18 Bye.
+2013-08-07 04:28:02 List finished. Enjoy!
+2013-08-07 05:17:02 Good evening! Let's do some stuff
+2013-08-07 05:17:05 Nothing to do.
+2013-08-07 05:17:05 Bye.
+2013-08-07 06:17:02 Good evening! Let's do some stuff
+2013-08-07 06:17:05 Nothing to do.
+2013-08-07 06:17:05 Bye.
+2013-08-07 07:17:02 Good evening! Let's do some stuff
+2013-08-07 07:17:05 Nothing to do.
+2013-08-07 07:17:05 Bye.
+2013-08-07 08:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 09:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 10:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 11:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 12:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 13:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 14:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 15:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 16:17:01 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 17:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 18:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 19:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-07 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-08 00:17:02 Good evening! Let's do some stuff
+2013-08-08 00:17:37 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/fo5445AJ8ew
+2013-08-08 00:18:18 Emailed ifttt - added line to list file
+2013-08-08 00:18:18 Updating computer...
+2013-08-08 00:28:04 Done.
+2013-08-08 00:28:04 Updated directory: /mnt/usbdrive/youtube
+2013-08-08 00:28:04 youtube-dl -f 18 -t --no-progress http://youtu.be/fo5445AJ8ew
+[youtube] Setting language
+[youtube] fo5445AJ8ew: Downloading video webpage
+[youtube] fo5445AJ8ew: Downloading video info webpage
+[youtube] fo5445AJ8ew: Extracting video information
+[download] Destination: Noah Album Countdown - 13 Days To Go - The Death Of Me-fo5445AJ8ew.mp4
+[download] Download completed
+2013-08-08 00:30:40 List finished. Enjoy!
+2013-08-08 01:17:02 Good evening! Let's do some stuff
+2013-08-08 01:17:05 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/fo5445AJ8ew
+youtube-dl -f 18 -t --no-progress http://youtu.be/mj9tykY2BCY
+2013-08-08 01:17:25 Emailed ifttt - added line to list file
+2013-08-08 01:17:25 Updating computer...
+2013-08-08 01:18:31 Done.
+2013-08-08 01:18:31 Updated directory: /mnt/usbdrive/youtube
+2013-08-08 01:18:31 youtube-dl -f 18 -t --no-progress http://youtu.be/fo5445AJ8ew
+[youtube] Setting language
+[youtube] fo5445AJ8ew: Downloading video webpage
+[youtube] fo5445AJ8ew: Downloading video info webpage
+[youtube] fo5445AJ8ew: Extracting video information
+[download] Noah Album Countdown - 13 Days To Go - The Death Of Me-fo5445AJ8ew.mp4 has already been downloaded
+2013-08-08 01:18:49 youtube-dl -f 18 -t --no-progress http://youtu.be/mj9tykY2BCY
+[youtube] Setting language
+[youtube] mj9tykY2BCY: Downloading video webpage
+[youtube] mj9tykY2BCY: Downloading video info webpage
+[youtube] mj9tykY2BCY: Extracting video information
+[download] Destination: NEW YOUTUBE LAWSUIT THREATENS CREATORS!!-mj9tykY2BCY.mp4
+[download] Download completed
+2013-08-08 01:53:14 List finished. Enjoy!
+2013-08-08 02:17:02 Good evening! Let's do some stuff
+2013-08-08 02:17:05 Nothing to do.
+2013-08-08 02:17:05 Bye.
+2013-08-08 03:17:02 Good evening! Let's do some stuff
+2013-08-08 03:17:05 Nothing to do.
+2013-08-08 03:17:05 Bye.
+2013-08-08 04:17:02 Good evening! Let's do some stuff
+2013-08-08 04:17:04 Nothing to do.
+2013-08-08 04:17:04 Bye.
+2013-08-08 05:17:01 Good evening! Let's do some stuff
+2013-08-08 05:17:04 Nothing to do.
+2013-08-08 05:17:04 Bye.
+2013-08-08 06:17:02 Good evening! Let's do some stuff
+2013-08-08 06:17:05 Nothing to do.
+2013-08-08 06:17:05 Bye.
+2013-08-08 07:17:02 Good evening! Let's do some stuff
+2013-08-08 07:17:04 Nothing to do.
+2013-08-08 07:17:04 Bye.
+2013-08-08 19:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-08 20:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-08 21:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-08 22:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-08 23:17:02 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-09 00:17:02 Good evening! Let's do some stuff
+2013-08-09 00:17:07 Commands to execute:
+youtube-dl -f 18 -t --no-progress http://youtu.be/Z3hqyrD-kuU
+youtube-dl -f 18 -t --no-progress http://youtu.be/kI4TMUA6xeQ
+youtube-dl -f 18 -t --no-progress http://youtu.be/q2jHxlwShCc
+2013-08-09 00:17:27 Emailed ifttt - added line to list file
+2013-08-09 00:17:27 Updating computer...
+2013-08-09 00:18:51 Done.
+2013-08-09 00:18:59 Updated directory: /mnt/usbdrive/youtube
+2013-08-09 00:18:59 youtube-dl -f 18 -t --no-progress http://youtu.be/Z3hqyrD-kuU
+[youtube] Setting language
+[youtube] Z3hqyrD-kuU: Downloading video webpage
+[youtube] Z3hqyrD-kuU: Downloading video info webpage
+[youtube] Z3hqyrD-kuU: Extracting video information
+[download] Destination: Noah Album Countdown - 12 Days To Go - Adore-Z3hqyrD-kuU.mp4
+[download] Download completed
+2013-08-09 00:21:26 youtube-dl -f 18 -t --no-progress http://youtu.be/kI4TMUA6xeQ
+[youtube] Setting language
+[youtube] kI4TMUA6xeQ: Downloading video webpage
+[youtube] kI4TMUA6xeQ: Downloading video info webpage
+[youtube] kI4TMUA6xeQ: Extracting video information
+[download] Destination: HOT HOT HOT NERDS!-kI4TMUA6xeQ.mp4
+[download] Download completed
+2013-08-09 00:44:38 youtube-dl -f 18 -t --no-progress http://youtu.be/q2jHxlwShCc
+[youtube] Setting language
+[youtube] q2jHxlwShCc: Downloading video webpage
+[youtube] q2jHxlwShCc: Downloading video info webpage
+[youtube] q2jHxlwShCc: Extracting video information
+[download] Destination: BAMFs, AWESOMENESS, & EVERYTHING ELSE-q2jHxlwShCc.mp4
+[download] Download completed
+2013-08-09 01:15:35 List finished. Enjoy!
+2013-08-09 01:17:03 Good evening! Let's do some stuff
+2013-08-09 01:17:07 Nothing to do.
+2013-08-09 01:17:07 Bye.
+2013-08-09 02:17:04 Good evening! Let's do some stuff
+2013-08-09 02:17:07 Nothing to do.
+2013-08-09 02:17:07 Bye.
+2013-08-09 03:17:03 Good evening! Let's do some stuff
+2013-08-09 03:17:06 Nothing to do.
+2013-08-09 03:17:06 Bye.
+2013-08-09 04:17:03 Good evening! Let's do some stuff
+2013-08-09 04:17:07 Nothing to do.
+2013-08-09 04:17:07 Bye.
+2013-08-09 05:17:03 Good evening! Let's do some stuff
+2013-08-09 05:17:15 Nothing to do.
+2013-08-09 05:17:15 Bye.
+2013-08-09 06:17:03 Good evening! Let's do some stuff
+2013-08-09 06:17:25 Nothing to do.
+2013-08-09 06:17:25 Bye.
+2013-08-09 07:17:04 Good evening! Let's do some stuff
+2013-08-09 07:17:31 Nothing to do.
+2013-08-09 07:17:31 Bye.
+2013-08-09 08:17:03 Why did you wake me? It's too early! I'm going back to bed.
+2013-08-09 09:17:04 Why did you wake me? It's too early! I'm going back to bed.
